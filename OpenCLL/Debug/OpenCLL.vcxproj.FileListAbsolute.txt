@@ -1,0 +1,3 @@
+C:\Users\dudekpob\source\repos\OpenCLL\OpenCLL\Debug\OpenCLL.vcxproj.AssemblyReference.cache
+C:\Users\dudekpob\source\repos\OpenCLL\OpenCLL\Debug\OpenCLL.Form1.resources
+C:\Users\dudekpob\source\repos\OpenCLL\OpenCLL\Debug\OpenCLL.vcxproj.GenerateResource.cache
