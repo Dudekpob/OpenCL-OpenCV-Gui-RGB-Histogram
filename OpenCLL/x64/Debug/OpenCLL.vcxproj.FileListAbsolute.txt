@@ -1,3 +1,0 @@
-C:\Users\dudekpob\source\repos\OpenCLL\OpenCLL\x64\Debug\OpenCLL.vcxproj.AssemblyReference.cache
-C:\Users\dudekpob\source\repos\OpenCLL\OpenCLL\x64\Debug\OpenCLL.Form1.resources
-C:\Users\dudekpob\source\repos\OpenCLL\OpenCLL\x64\Debug\OpenCLL.vcxproj.GenerateResource.cache
